@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @stanhr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-stanhr/stanhr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in frontend development, product development, sound design and music production.
+- 🌱 I’m currently learning JavaScript and improving other frontend skills.
+- 💞️ I’m looking to collaborate on small projects, because I am working full time now.
+- 📫 How to reach me. Just send me email to mirrorsmuzik@gmail.com
