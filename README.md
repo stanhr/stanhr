@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stan
-- 👀 I’m interested in frontend development, product development, sound design and music production.
+- 👀 I’m interested in frontend development, product development
 - 🌱 I’m currently learning JavaScript and improving other frontend skills.
 - 💞️ I’m looking to collaborate on small projects, because I am working full time now.
 - 📫 To reach me just email me on mirrorsmuzik@gmail.com
